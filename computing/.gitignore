@@ -1,0 +1,20 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+x64/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+*.db
+*.ipch
+*.recipe
+*.FileListAbsolute.txt
